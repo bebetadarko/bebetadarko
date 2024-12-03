@@ -3,10 +3,7 @@ Acompanhe a mim nessa jornada de aprendizado de novas linguagens e introdução 
 
 <br>
 
-- Estudante do IFSP Birigui 📖 - Técnico em Informática 👨‍💻
-- 1° ano de curso
-- Aprendendo html, css e C++
-- Amor pelo BackEnd ❤️
+- Tec. Informática IFSP.
 
 ![bebetadarko GitHub stats](https://github-readme-stats.vercel.app/api?username=bebetadarko&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebetadarko)](https://github.com/anuraghazra/github-readme-stats)

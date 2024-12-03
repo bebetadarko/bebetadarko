@@ -1,6 +1,4 @@
 ## Seja bem vindo ao meu perfil <img align="center" alt="Johan-C++" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif">
-Acompanhe a mim nessa jornada de aprendizado de novas linguagens e introdução ao mercado de trabalho!!!
-
 <br>
 
 - Tec. Informática IFSP.

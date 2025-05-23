@@ -1,4 +1,4 @@
-## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="caveira.gif">
+## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="There was an error committing your changes: File could not be edited">
 <br>
 
 @arthfsx

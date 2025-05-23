@@ -9,6 +9,8 @@
 
 ### Tecnologias
 
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Bebeta-C++" height="40" width="40" src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/C%2B%2B.png">
   <img align="center" alt="Bebeta-C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

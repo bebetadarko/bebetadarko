@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=600&lines=I+drink+your+blood+and+I+eat+your+skin;Scrivo+codice+carine+e+amo+il+mio+ragazzo)](https://git.io/typing-svg)
-<img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif" alt="caveira animada" height="40" width="40">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=600&lines=I+drink+your+blood+and+I+eat+your+skin;Scrivo+codice+carine+e+amo+il+mio+ragazzo)](https://git.io/typing-svg) <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif" alt="caveira animada" height="40" width="40">
 <br>
 
 

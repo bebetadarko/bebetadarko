@@ -1,4 +1,7 @@
-## I drink your blood and I eat your skin. <img align="center" alt="emoji-caveira" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=600&lines=I+drink+your+blood+and+I+eat+your+skin;Scrivo+codice+carine+e+amo+il+mio+ragazzo)](https://git.io/typing-svg)
+
+
+src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif">
 <br>
 
 

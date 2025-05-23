@@ -1,4 +1,4 @@
-## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif">
+## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="caveira.gif">
 <br>
 
 @arthfsx

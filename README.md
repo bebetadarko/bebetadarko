@@ -1,4 +1,4 @@
-## Programmo cose carine e amo il mio ragazzo <img align="center" alt="emoji-caveira" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif">
+## I drink your blood and I eat your skin. <img align="center" alt="emoji-caveira" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f480.gif">
 <br>
 
 

@@ -1,5 +1,6 @@
-## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="There was an error committing your changes: File could not be edited">
+## Programmo cose carine e amo il mio ragazzo <img align="center" alt="Bebeta-C++" height="40" width="40" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f493.gif">
 <br>
+
 
 @arthfsx
 
